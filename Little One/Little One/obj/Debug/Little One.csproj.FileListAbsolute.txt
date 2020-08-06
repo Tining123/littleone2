@@ -1,0 +1,164 @@
+G:\大四下\Little One\Little One\bin\Debug\Little One.exe.config
+G:\大四下\Little One\Little One\bin\Debug\Little One.exe
+G:\大四下\Little One\Little One\bin\Debug\Little One.pdb
+G:\大四下\Little One\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
+G:\大四下\Little One\Little One\obj\Debug\Little One.exe
+G:\大四下\Little One\Little One\obj\Debug\Little One.pdb
+G:\大四下\Little One\Little One\bin\Debug\Prepare.dll
+G:\大四下\Little One\Little One\bin\Debug\Mission_Pack.dll
+G:\大四下\Little One\Little One\bin\Debug\Deal.dll
+G:\大四下\Little One\Little One\bin\Debug\Store.dll
+G:\大四下\Little One\Little One\bin\Debug\Prepare.pdb
+G:\大四下\Little One\Little One\bin\Debug\Mission_Pack.pdb
+G:\大四下\Little One\Little One\bin\Debug\Deal.pdb
+G:\大四下\Little One\Little One\bin\Debug\Store.pdb
+G:\大四下\Little One\Little One\bin\Debug\Tools.dll
+G:\大四下\Little One\Little One\bin\Debug\Tools.pdb
+G:\大四下\Little One\Little One\bin\Debug\Down.dll
+G:\大四下\Little One\Little One\bin\Debug\Down.pdb
+I:\Little One\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
+I:\Little One\Little One\obj\Debug\Little One.exe.licenses
+I:\Little One\Little One\bin\Debug\Little One.exe.config
+I:\Little One\Little One\bin\Debug\Little One.exe
+I:\Little One\Little One\bin\Debug\Little One.pdb
+I:\Little One\Little One\bin\Debug\Deal.dll
+I:\Little One\Little One\bin\Debug\Down.dll
+I:\Little One\Little One\bin\Debug\Mission_Pack.dll
+I:\Little One\Little One\bin\Debug\Prepare.dll
+I:\Little One\Little One\bin\Debug\Store.dll
+I:\Little One\Little One\bin\Debug\Tools.dll
+I:\Little One\Little One\bin\Debug\Deal.pdb
+I:\Little One\Little One\bin\Debug\Down.pdb
+I:\Little One\Little One\bin\Debug\Mission_Pack.pdb
+I:\Little One\Little One\bin\Debug\Prepare.pdb
+I:\Little One\Little One\bin\Debug\Store.pdb
+I:\Little One\Little One\bin\Debug\Tools.pdb
+I:\Little One\Little One\obj\Debug\Little One.exe
+I:\Little One\Little One\obj\Debug\Little One.pdb
+J:\Little One\Little One\bin\Debug\Little One.exe.config
+J:\Little One\Little One\obj\Debug\Little One.exe
+J:\Little One\Little One\obj\Debug\Little One.pdb
+J:\Little One\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
+J:\Little One\Little One\obj\Debug\Little One.exe.licenses
+J:\Little One\Little One\bin\Debug\Little One.exe
+J:\Little One\Little One\bin\Debug\Little One.pdb
+J:\Little One\Little One\bin\Debug\Deal.dll
+J:\Little One\Little One\bin\Debug\Down.dll
+J:\Little One\Little One\bin\Debug\Mission_Pack.dll
+J:\Little One\Little One\bin\Debug\Prepare.dll
+J:\Little One\Little One\bin\Debug\Store.dll
+J:\Little One\Little One\bin\Debug\Tools.dll
+J:\Little One\Little One\bin\Debug\Deal.pdb
+J:\Little One\Little One\bin\Debug\Down.pdb
+J:\Little One\Little One\bin\Debug\Mission_Pack.pdb
+J:\Little One\Little One\bin\Debug\Prepare.pdb
+J:\Little One\Little One\bin\Debug\Store.pdb
+J:\Little One\Little One\bin\Debug\Tools.pdb
+D:\Little One\Little One\bin\Debug\Little One.exe.config
+D:\Little One\Little One\obj\Debug\Little One.exe
+D:\Little One\Little One\obj\Debug\Little One.pdb
+D:\Little One\Little One\obj\Debug\ResolveAssemblyReference.cache
+D:\Little One\Little One\bin\Debug\Little One.exe
+D:\Little One\Little One\bin\Debug\Little One.pdb
+D:\Little One\Little One\bin\Debug\Deal.dll
+D:\Little One\Little One\bin\Debug\Down.dll
+D:\Little One\Little One\bin\Debug\Mission_Pack.dll
+D:\Little One\Little One\bin\Debug\Prepare.dll
+D:\Little One\Little One\bin\Debug\Store.dll
+D:\Little One\Little One\bin\Debug\Tools.dll
+D:\Little One\Little One\bin\Debug\MySql.Data.dll
+D:\Little One\Little One\bin\Debug\Deal.pdb
+D:\Little One\Little One\bin\Debug\Down.pdb
+D:\Little One\Little One\bin\Debug\Mission_Pack.pdb
+D:\Little One\Little One\bin\Debug\Prepare.pdb
+D:\Little One\Little One\bin\Debug\Store.pdb
+D:\Little One\Little One\bin\Debug\Tools.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Little One.exe.config
+D:\Little One - nozhihu\Little One\obj\Debug\Little One.exe
+D:\Little One - nozhihu\Little One\obj\Debug\Little One.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Little One.exe
+D:\Little One - nozhihu\Little One\bin\Debug\Little One.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Deal.dll
+D:\Little One - nozhihu\Little One\bin\Debug\Down.dll
+D:\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.dll
+D:\Little One - nozhihu\Little One\bin\Debug\Prepare.dll
+D:\Little One - nozhihu\Little One\bin\Debug\Store.dll
+D:\Little One - nozhihu\Little One\bin\Debug\Tools.dll
+D:\Little One - nozhihu\Little One\bin\Debug\MySql.Data.dll
+D:\Little One - nozhihu\Little One\bin\Debug\Deal.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Down.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Prepare.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Store.pdb
+D:\Little One - nozhihu\Little One\bin\Debug\Tools.pdb
+D:\Little One - nozhihu\Little One\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tin\Documents\Little One - nozhihu\Little One\bin\Debug\Little One.exe.config
+C:\Users\Tin\Documents\Little One - nozhihu\Little One\obj\Debug\Little One.exe
+C:\Users\Tin\Documents\Little One - nozhihu\Little One\obj\Debug\Little One.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Little One.exe.config
+J:\Little One - nozhihu\Little One\obj\Debug\Little One.exe
+J:\Little One - nozhihu\Little One\obj\Debug\Little One.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Little One.exe
+J:\Little One - nozhihu\Little One\bin\Debug\Little One.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Deal.dll
+J:\Little One - nozhihu\Little One\bin\Debug\Down.dll
+J:\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.dll
+J:\Little One - nozhihu\Little One\bin\Debug\Prepare.dll
+J:\Little One - nozhihu\Little One\bin\Debug\Store.dll
+J:\Little One - nozhihu\Little One\bin\Debug\Tools.dll
+J:\Little One - nozhihu\Little One\bin\Debug\Deal.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Down.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Prepare.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Store.pdb
+J:\Little One - nozhihu\Little One\bin\Debug\Tools.pdb
+J:\Little One - nozhihu\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
+I:\Little One - nozhihu\Little One\bin\Debug\Little One.exe.config
+I:\Little One - nozhihu\Little One\obj\Debug\Little One.exe
+I:\Little One - nozhihu\Little One\obj\Debug\Little One.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Little One.exe.config
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Little One.exe
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Little One.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Deal.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Down.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Net.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Prepare.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Store.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Tools.dll
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Deal.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Down.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Net.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Prepare.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Store.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Tools.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\obj\Debug\Little One.exe
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\obj\Debug\Little One.pdb
+C:\Users\Tin\Desktop\Little One - nozhihu\Little One\bin\Debug\Newtonsoft.Json.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Little One.exe.config
+G:\大四暑假\Little One\Little One - nozhihu\Little One\obj\Debug\Little One.exe
+G:\大四暑假\Little One\Little One - nozhihu\Little One\obj\Debug\Little One.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Little One.exe
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Little One.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Deal.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Down.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Net.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Prepare.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Store.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Tools.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Newtonsoft.Json.dll
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Deal.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Down.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Mission_Pack.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Net.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Prepare.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Store.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\bin\Debug\Tools.pdb
+G:\大四暑假\Little One\Little One - nozhihu\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
+G:\大四暑假\Little One\Little One\Little One\Little One\bin\Debug\Little One.exe.config
+G:\大四暑假\Little One\Little One\Little One\Little One\obj\Debug\Little One.exe
+G:\大四暑假\Little One\Little One\Little One\Little One\obj\Debug\Little One.pdb
+G:\大四暑假\Little One\Little One\Little One\Little One\obj\Debug\Little One.csprojResolveAssemblyReference.cache
